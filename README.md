@@ -1,10 +1,5 @@
 <header>
-# This is H1
-## This is H2
-### This is H3
-#### This is H4
-##### This is H5
-###### This is H6
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -13,6 +8,8 @@
 -->
 
 # Communicate using Markdown
+
+
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -23,7 +20,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-
+# This is H1
+## This is H2
+### This is H3
+#### This is H4
+##### This is H5
+###### This is H6
 ## Step 2: Add an image
 
 _Great job adding headers to the file :sparkles:_
